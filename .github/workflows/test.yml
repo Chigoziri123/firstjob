@@ -9,5 +9,6 @@ jobs:
     test1:
         runs-on: ubuntu-latest
         steps:
-            - name: say hello world
+            - 
+              name: say hello world
               run: echo "Say hello world. This is our first pipeline."
